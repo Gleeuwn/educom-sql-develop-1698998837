@@ -1,0 +1,3 @@
+SELECT *
+FROM orders
+WHERE ORDERID % 2 <> 0;
